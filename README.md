@@ -5,5 +5,6 @@ I will use : https://github.com/jwasham/coding-interview-university
 and : https://www.hackerrank.com 
 and: https://exercism.io 
 and: https://leetcode.com
+and: http://www.cplusplus.com/doc/tutorial/
 
 for getting examples.
